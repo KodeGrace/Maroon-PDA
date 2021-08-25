@@ -1,7 +1,7 @@
 # Maroon-PDA
 Kode di dalam repository ini untuk kegiatan pengajaran mata kuliah Pemrograman Data Analisis (PDA) dalam Labkom Maroon tahun 2021
 
-##### Desclaimer: Beberapa kode Python dalam file ini terinspirasi dari kode peneliti lain dan digunakan untuk pembelajaran
+##### Disclaimer: Beberapa kode Python dalam file ini terinspirasi dari kode peneliti lain dan digunakan untuk pembelajaran
 
 ## Pertemuan-pertemuan praktikum
 1. Pengatar Pemrograman Data Analisis (not preview)
