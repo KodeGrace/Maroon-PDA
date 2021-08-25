@@ -1,4 +1,4 @@
-# Maroon-PDA
+# Maroon Labkom - PDA
 Kode di dalam repository ini untuk kegiatan pengajaran mata kuliah Pemrograman Data Analisis (PDA) dalam Labkom Maroon tahun 2021
 
 ##### Disclaimer: Beberapa kode Python dalam file ini terinspirasi dari kode peneliti lain dan digunakan untuk pembelajaran
